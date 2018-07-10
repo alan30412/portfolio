@@ -10,5 +10,5 @@ function start()
     }
 }    
 
-setInterval(start,1000);
+setInterval(start,500);
 window.addEventListener("load",start,false);
