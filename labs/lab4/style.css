@@ -1,0 +1,48 @@
+				canvas{background-color: rgb(245,150,170);
+				color: rgb(255,255,255);}
+			#lab4s1 {
+				font-family: 'STSong';
+				color: rgb(0,0,0);
+			}
+			#lab4s2 {
+				color: rgb(255,0,0);
+				font-size: 200%;
+				font-family: 'STSong';
+				font-weight: bold; 
+			}
+			#lab4 {
+				font-family: 'TypeLand.com LehBien Lehsho Trial'
+			}
+			#lab4s3 {
+				font-family: 'Zapfino';
+				color: rgb(245,150,170);
+			}
+			h6 {
+    			margin:auto;
+    			text-align:center 
+				}
+			div.lab8{
+				width: 900px;
+				text-align: center;
+				border: 1px solid red;
+				padding: 30px;
+				margin: auto;  
+		        
+			}
+			p.lab8{
+				font-family: 'STFangsong',serif;
+				font-size: 18pt;
+				align-items: center;
+				display: flex;
+				border: 1px solid;
+				border-color: red; 
+				width: 500px;
+				height: 300px;
+				margin: 0px auto;
+				padding:12px;
+				overflow: auto;
+			}
+			img.black{
+				float:right;
+			}
+			
