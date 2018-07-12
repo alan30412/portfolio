@@ -1,0 +1,20 @@
+div  {
+	border: 1px solid black;
+	padding: 10px;
+	margin: 5px;
+	float: left;
+	font-family: 'STFangsong',serif;
+	background-image: url("./123.jpg");
+	background-size: 1477px 386.5px;   
+}
+span {
+	color:blue;
+	font-weight: bold;
+
+}	
+strong, em {
+	color: rgb(169, 0, 0);
+}
+p {
+	color: rgb(50,50,50);
+}
